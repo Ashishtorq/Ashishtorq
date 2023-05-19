@@ -9,8 +9,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **HTML5 CSS3 JS ReactJS**
+-
 
 - 📫 How to reach me **ashishsinghtarwa@gmail.com**
+- <img src="https://res.cloudinary.com/js-projects/image/upload/v1671219502/WEB_DEVELOPER_jaztsb.png" alt="Girl in a jacket" width="100%" height="300px" >
 
 - ⚡ Fun fact **Why do programmers prefer dark mod....Because light attracts bugs!**
 
