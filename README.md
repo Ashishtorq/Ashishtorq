@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on [FitFusion](wondrous-profiterole-ec81d2.netlify.app)
+- 👯 I’m looking to collaborate on [FitFusion](https://wondrous-profiterole-ec81d2.netlify.app/)
 
 - 💬 Ask me about **react, javascript, css**
 
