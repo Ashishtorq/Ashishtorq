@@ -19,7 +19,13 @@
 
 - ⚡ Fun fact **Why do programmers prefer dark mode..Because light attracts bugs!**
 -  <img src="https://res.cloudinary.com/js-projects/image/upload/v1671219502/WEB_DEVELOPER_jaztsb.png" alt="Girl in a jacket" width="100%" height="300px" > .
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishtorq" alt="ashishtorq" /></a> </p>
+
+-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishtorq&theme=monikai" alt="ashishtorq" /></a> </p>
+
+<p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=ashishtorq&theme=monokai" alt=ashishtorq" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashishsingh13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashishsingh13/" height="30" width="40" /></a>
