@@ -21,7 +21,7 @@
 -  <img src="https://res.cloudinary.com/js-projects/image/upload/v1671219502/WEB_DEVELOPER_jaztsb.png" alt="Girl in a jacket" width="100%" height="300px" > .
 
 -  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishtorq&theme=monikai" alt="ashishtorq" /></a> </p>
+
 
 <p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=ashishtorq&theme=monokai" alt=ashishtorq" /></a> </p>
 
