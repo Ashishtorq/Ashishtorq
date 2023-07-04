@@ -43,7 +43,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishtorq&show_icons=true&locale=en&layout=compact" alt="ashishtorq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishtorq&show_icons=true&locale=en&layout=compact" alt="ashishtorq" /></p>
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishtorq&show_icons=true&locale=en&layout=compact" alt="ashishtorq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p> -->
 <!--  This line of code is for no. of languages used in my github account -->
