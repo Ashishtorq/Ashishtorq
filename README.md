@@ -51,7 +51,7 @@
  
  <!--  This line of code is for the stats of github account -->
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p>
-  --->
+  -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishtorq&" alt="ashishtorq" /></p>
