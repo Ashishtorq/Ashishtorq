@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, javascript, css**
 
-- 📫 How to reach me **ashishtorq20@gmail.com**
+- 📫 Connect me at 👉 **ashishtorq20@gmail.com**
 - 
 
    <!-- Fun fact **Talk is cheap!! Show me the code!** -->
