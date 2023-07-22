@@ -17,7 +17,7 @@
 - 📫 How to reach me **ashishtorq20@gmail.com**
 - 
 
-- ⚡ Fun fact **Why do programmers prefer dark mode..Because light attracts bugs!**
+- ⚡ Fun fact **Talk is cheap!! Show me the code!**
 -  <img src="https://res.cloudinary.com/js-projects/image/upload/v1671219502/WEB_DEVELOPER_jaztsb.png" alt="Girl in a jacket" width="100%" height="300px" > .
 
 -  
