@@ -51,7 +51,7 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishtorq&show_icons=true&locale=en&layout=compact" alt="ashishtorq" /></p>
  
  <!--  This line of code is for the stats of github account -->
-<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p>
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishtorq&show_icons=true&locale=en" alt="ashishtorq" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishtorq&" alt="ashishtorq" /></p>
-<p><img align="center" src="https://leetcode.card.workers.dev/ashishtorq?theme=dark&font=baloo&extension=null" /></p>
+<!--<p><img align="center" src="https://leetcode.card.workers.dev/ashishtorq?theme=dark&font=baloo&extension=null" /></p>
