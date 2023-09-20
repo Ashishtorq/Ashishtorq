@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **MEN(Backend)**
 
 - 👯 I’m looking to collaborate on [FitFusion](https://wondrous-profiterole-ec81d2.netlify.app/)
 
