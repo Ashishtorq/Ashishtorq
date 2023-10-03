@@ -24,7 +24,7 @@
 -  
 
 
-<!--<p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=ashishtorq&theme=monokai" alt=ashishtorq" /></a> </p> -->
+<p align="center"> <a href="http://deekshasharma.vercel.app/"><img src="https://github-profile-trophy.vercel.app/?username=ashishtorq&theme=monokai" alt=ashishtorq" /></a> </p> 
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
