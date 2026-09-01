@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h3 align="center">A software Engineer from India</h3>
